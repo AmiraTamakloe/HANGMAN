@@ -31,6 +31,6 @@ while not done:
 			done = False 
 			
 if done:
-	print(f'Ta trouver le mot {mot} salope!')
+	print(f'Ta trouver le mot {mot}')
 else:
-	print(f't fkg nul lol')
+	print(f'tu n'as pas trouver')
